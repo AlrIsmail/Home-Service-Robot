@@ -1,0 +1,5 @@
+<launch>
+	<!-- robot keybord control -->
+  <node pkg="teleop_twist_keyboard" type="teleop_twist_keyboard.py" name="teleop">
+  </node>
+</launch>
